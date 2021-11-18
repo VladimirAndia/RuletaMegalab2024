@@ -1,2 +1,2 @@
-# web-ruleta
-Es un sitio web que nos permite interctuar con la Ruleta.
+# juego-ruleta
+Juego realizado con HTML5, CSS, y javascript. 
